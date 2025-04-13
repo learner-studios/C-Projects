@@ -5,7 +5,7 @@
 
 int main (){
 
-    //int my_first_array[50];
+    int my_first_array[50];
 
     //set the 5th element in the array with a value
 
